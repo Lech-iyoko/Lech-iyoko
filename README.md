@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lech-iyoko&label=Profile%20views&color=0e75b6&style=flat" alt="lech-iyoko" /> </p>
 
-- 🔭 I’m currently working on [AI-Powered Symptom Checker](https://github.com/Lech-iyoko/Energy-Recommendation-System)
+- 🔭 I’m currently working on [AI-Powered Symptom Checker](https://github.com/Lech-iyoko/AI_Powered_Symptom_Checker)
 
 - 🌱 I’m currently learning **NLP and Text Analysis**
 
