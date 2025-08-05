@@ -1,5 +1,5 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/ai-icon-artificial-intelligence-600nw-2475734755.jpg)](https://LechIyoko.io)
-<h1 align="center">Hi 👋, I'm Alechenu Iyoko</h1>
+<h1 align="center">Hi 👋, I'm Lech Iyoko</h1>
 <h3 align="center">An AI/ML Engineer passionate about developing intelligent systems to augment human efforts and progress using Deep Learning and Robotics</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
 
