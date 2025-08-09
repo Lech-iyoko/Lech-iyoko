@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Self-Supervised Surgical Action Recognition](https://github.com/Lech-iyoko/Self_Supervised_Surgical_Action_Recognition)
 
-- 🌱 I’m currently learning **Neural Networks, Self-supervised Learning, LangChain, PyTorch, TensorFlow**
+- 🌱 I’m currently learning **JEPAs and world models, Self-supervised Learning, LangChain, PyTorch, TensorFlow**
 
 - 👯 I’m am collaborating on [MeO](https://github.com/DIFFERENCECODE/chatbot-rag)
 
