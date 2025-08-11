@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lech-iyoko" alt="lech-iyoko" /></a> </p>
 
-- 🔭 I’m currently working on [JARVIS Beta]([https://github.com/Lech-iyoko/Self_Supervised_Surgical_Action_Recognition](https://github.com/Lech-iyoko/JARVIS)
+- 🔭 I’m currently working on [JARVIS Beta](https://github.com/Lech-iyoko/Self_Supervised_Surgical_Action_Recognition](https://github.com/Lech-iyoko/JARVIS)
 
 - 🌱 I’m currently learning **JEPAs and world models, Self-supervised Learning, LangChain, PyTorch, TensorFlow**
 
